@@ -1,0 +1,122 @@
+        /* Background Gradient */
+        body {
+            background: linear-gradient(to right, #B993D6, #8CA6DB);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            color: #fff;
+        }
+
+        /* Main Container */
+        .container {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            width: 400px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+        h1 {
+            color: #fff;
+            font-size: 26px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        /* Input Fields */
+        .input-group {
+            position: relative;
+            margin: 20px 0;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 12px;
+            border-radius: 10px;
+            border: none;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            font-size: 16px;
+            outline: none;
+            transition: 0.3s ease-in-out;
+        }
+
+        .input-group input::placeholder {
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .input-group input:focus {
+            background: rgba(255, 255, 255, 0.3);
+            box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
+        }
+
+        /* Sign-Up Button */
+        .btn {
+            background: linear-gradient(90deg, #7F00FF, #E100FF);
+            color: white;
+            padding: 12px;
+            border: none;
+            width: 100%;
+            border-radius: 25px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s ease-in-out;
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 15px rgba(127, 0, 255, 0.3);
+        }
+
+        /* Social Icons */
+        .icons {
+            margin-top: 20px;
+        }
+
+        .icons i {
+            font-size: 24px;
+            color: white;
+            margin: 0 10px;
+            cursor: pointer;
+            transition: 0.3s ease-in-out;
+        }
+
+        .icons i:hover {
+            transform: scale(1.2);
+            color: #7F00FF;
+        }
+
+        /* Link to Sign In */
+        .links p {
+            color: white;
+            margin-top: 10px;
+        }
+
+        .links button {
+            background: none;
+            border: none;
+            font-size: 16px;
+            cursor: pointer;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+        }
+
+        .links button:hover {
+            transform: scale(1.2);   
+        }
+        .links a:hover{
+            color: #7F00FF;
+        }
+        .links button a{
+            font-weight: bold;
+            text-decoration: none !important;
+            color: #fff;
+        }

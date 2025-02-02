@@ -1,0 +1,11 @@
+DirectoryIndex index.html
+RewriteEngine On
+RewriteBase /
+
+# Rewrite to handle index.php cleanly
+RewriteRule ^index$ index.php [L]
+
+# If you want to remove .php extensions
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
