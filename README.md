@@ -107,7 +107,8 @@ HRP uses a well-structured relational database with the following tables:
 
 
 ### **6️⃣ Admin Page (index1.html)**
-![{4662E19D-E9E5-4E93-A387-164968DFD071}](https://github.com/user-attachments/assets/93977a25-27a3-495a-96ad-1a8c1cfe8ee7)
+![image](https://github.com/user-attachments/assets/9ccd176a-4b4c-4988-b11c-3ceef9659b82)
+
 
 
 ---
