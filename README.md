@@ -103,10 +103,12 @@ HRP uses a well-structured relational database with the following tables:
 ![Dashboard Page](https://github.com/user-attachments/assets/57522b76-62dd-4dc4-91f2-d5327de4e06b)
 
 ### **5️⃣ User Profile Page (user_profile.html)**
-![User Profile Page](https://github.com/user-attachments/assets/5238630A-C06E-4826-8ECB-077120C50F6E)
+![{A23F9A81-EE2A-4F1D-B109-9B1E3D5B0B61}](https://github.com/user-attachments/assets/01e1d1b2-6ad8-4895-a43b-76970b791221)
+
 
 ### **6️⃣ Admin Page (index1.html)**
-![Admin Page](https://github.com/user-attachments/assets/70486cb9-bddd-4e15-8721-c09bf3cb5744)
+![{4662E19D-E9E5-4E93-A387-164968DFD071}](https://github.com/user-attachments/assets/93977a25-27a3-495a-96ad-1a8c1cfe8ee7)
+
 
 ---
 
@@ -135,4 +137,3 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-This version now **correctly labels your UI screenshots** and **adds the directory structure** for clarity. 🚀 Let me know if you need any changes! 😊
