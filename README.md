@@ -66,14 +66,31 @@ This project is open-source and available under the **MIT License**.
 
 ---
 ##Screenshots
+
 ![image](https://github.com/user-attachments/assets/fd5d6d38-d536-410e-9ec2-759c746419fa)
+
 Prototype1: (P1) register a new member
+
 ![image](https://github.com/user-attachments/assets/f8bf2f39-c6e4-4478-b4a9-7c300ce48fdd)
+
 Prototype2: (P2) Login Page
+
 ![image](https://github.com/user-attachments/assets/fe74ad8a-991b-4424-bfb2-ebe8ae5eff4b)
+
 Prototype3: (P3) Front Page
+
 ![image](https://github.com/user-attachments/assets/57522b76-62dd-4dc4-91f2-d5327de4e06b)
-Prototype4: (P3) Dashboard Page
+
+Prototype4: (P4) Dashboard Page
+
+![{1401BE12-A75E-4E5D-9CC3-F55C5755713A}](https://github.com/user-attachments/assets/70486cb9-bddd-4e15-8721-c09bf3cb5744)
+
+Prototype5: (P5) User Profile Page
+
+![{906BB838-302D-441A-ABA5-693875FE7D71}](https://github.com/user-attachments/assets/5af2d9be-3933-4c51-b958-6644d0f67428)
+
+
+Prototype6: (P6)  Admin  Page
 ---
 ### Contact
 For any queries or contributions, feel free to reach out:
