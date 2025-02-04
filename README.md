@@ -76,14 +76,14 @@ HRP uses a well-structured relational database with the following tables:
 ### **Steps:**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/HRP.git
+   git clone https://github.com/your-username/RISKGUARDAI.git
    ```
 2. Move the project to your XAMPP/WAMP `htdocs` folder.  
 3. Import the `hrp_database.sql` file into MySQL.  
 4. Start Apache and MySQL services.  
 5. Open a browser and visit:  
    ```
-   http://localhost/HRP
+   http://localhost/RISKGUARAI
    ```
 
 ---
