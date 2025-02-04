@@ -64,7 +64,6 @@ Contributions are welcome! Feel free to submit a pull request or report issues.
 ## License
 This project is open-source and available under the **MIT License**.
 
----
 ##Screenshots
 
 ![image](https://github.com/user-attachments/assets/fd5d6d38-d536-410e-9ec2-759c746419fa)
