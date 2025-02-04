@@ -87,8 +87,7 @@ Prototype4: (P4) Dashboard Page
 
 Prototype5: (P5) User Profile Page
 
-![{906BB838-302D-441A-ABA5-693875FE7D71}](https://github.com/user-attachments/assets/5af2d9be-3933-4c51-b958-6644d0f67428)
-
+![{5238630A-C06E-4826-8ECB-077120C50F6E}](https://github.com/user-attachments/assets/a8499d7e-b5ba-4697-839e-a748d21353b4)
 
 Prototype6: (P6)  Admin  Page
 ---
