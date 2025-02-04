@@ -48,7 +48,7 @@ HRP uses a well-structured relational database with the following tables:
 4. Start Apache and MySQL services.
 5. Open a browser and visit:
    ```
-   http://localhost/HRP
+   http://localhost/RISKGUARDAI
    ```
 
 ## Usage
@@ -64,6 +64,16 @@ Contributions are welcome! Feel free to submit a pull request or report issues.
 ## License
 This project is open-source and available under the **MIT License**.
 
+---
+##Screenshots
+![image](https://github.com/user-attachments/assets/fd5d6d38-d536-410e-9ec2-759c746419fa)
+Prototype1: (P1) register a new member
+![image](https://github.com/user-attachments/assets/f8bf2f39-c6e4-4478-b4a9-7c300ce48fdd)
+Prototype2: (P2) Login Page
+![image](https://github.com/user-attachments/assets/fe74ad8a-991b-4424-bfb2-ebe8ae5eff4b)
+Prototype3: (P3) Front Page
+![image](https://github.com/user-attachments/assets/57522b76-62dd-4dc4-91f2-d5327de4e06b)
+Prototype4: (P3) Dashboard Page
 ---
 ### Contact
 For any queries or contributions, feel free to reach out:
