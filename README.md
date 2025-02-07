@@ -1,4 +1,3 @@
-Here's your updated **README.md** with the **corrected screenshot headings** and **directory structure**:
 
 ---
 
