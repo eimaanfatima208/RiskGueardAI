@@ -4,7 +4,7 @@
 # **Health Risk Predictor (HRP)**  
 
 ## **Overview**  
-Health Risk Predictor (HRP) is a web application designed to predict medical diseases based on user-inputted symptoms and medical history. It provides **personalized workout recommendations** and **prescriptions** to help users manage their health better.  
+Health Risk Predictor (HRP) is a web application designed to predict medical diseases based on user-inputted symptoms and medical history. It provides **personalized workout recommendations** and **Medical help** to help users manage their health better.  
 
 Built using **HTML, CSS, JavaScript, PHP, and MySQL**, HRP aims to bridge the gap between **self-diagnosis** and **professional medical consultation**.  
 
