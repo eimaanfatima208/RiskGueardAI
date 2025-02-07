@@ -120,7 +120,15 @@ HRP uses a well-structured relational database with the following tables:
 5. Admins can log in to manage users and data.  
 
 ---
+## **Categories to Add IN PRoject**
+1. API Integrations (Third-party health APIs)
+2. Medical Help (Doctor consultation system)
+3. Workout Recommendation (AI-based fitness suggestions)
+4. Disease Prediction (HRP’s core functionality)
+5. Dashboard Improvements (UI/UX enhancements)
+6. Testing & Debugging (Bug tracking and fixes)
 
+---   
 ## **Contributing**  
 Contributions are welcome! Feel free to submit a pull request or report issues.  
 
